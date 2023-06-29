@@ -1,5 +1,7 @@
 # Liubou Barbushyna
 
+<img src="user.png" alt="user photo" width="100" height="100">
+
 ## Personal
 
 ### Contact info
